@@ -1,4 +1,4 @@
-# iOS Bootcamp Week1
+# iOS Bootcamp Week1 - Emre Keskin
 
 1. Please download sample project from given github repository.
 2. Create your own repository and initiate master and develop branches. 
