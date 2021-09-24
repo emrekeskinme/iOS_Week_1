@@ -29,6 +29,9 @@ class ViewController: UIViewController {
         let structObj = SampleStruct(title: "title", subTitle: "subTitle")
         let classObj = SampleClass(name: "name", surName: "surname").setTitleObject(by: structObj)
         classObj.display()
+        
+        let aStruct = activityStruct(forward: "İleri", rear: "Geri");
+        let aObj = Vehicle(brandName: "Mercedes", capacity: 5).vehicleActivity(by: aStruct).info()
     }
 
     
